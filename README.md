@@ -4,7 +4,7 @@ Code for picture manipulating web application I created.  Application used to be
 
 This version uses SQLite (I have other versions using PostGres).  The application is designed to run with minimal cost on AWS Elastic Beanstalk.  Application can be deployed with docker or uploaded directley to AWS.
 
-Fonts file was too large to upload to Github,but a smaller folder containing 32 fonts (down from 500) is included.  The file needs a Flikr API key and a little bit of adjustment but runs well locally and moderately well as a cloud application.
+Fonts file was too large to upload to Github,but a smaller folder containing 32 fonts (down from 500) is included.  The file needs a Flickr API key and a little bit of adjustment but runs well locally and moderately well as a cloud application.
 
 Screenshots of the application and a finished product example are shown below.
 
